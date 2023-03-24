@@ -121,7 +121,6 @@ flutter:
     - assets/lottie/
     - assets/svg/
     - assets/
-
 # fonts:
 #   - family: popins
 #     fonts:
